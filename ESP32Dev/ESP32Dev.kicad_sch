@@ -1142,7 +1142,7 @@
     (in_bom yes) (on_board yes)
     (uuid a04260aa-8b62-4cfd-8ce8-f7c7cbc3ff88)
     (property "Reference" "C1" (id 0) (at 85.09 78.74 90))
-    (property "Value" "0.1nF" (id 1) (at 85.09 81.28 90))
+    (property "Value" "100nF" (id 1) (at 85.09 81.28 90))
     (property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" (id 2) (at 88.9 73.9648 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1608,7 +1608,7 @@
       (reference "#PWR0114") (unit 1) (value "GND") (footprint "")
     )
     (path "/a04260aa-8b62-4cfd-8ce8-f7c7cbc3ff88"
-      (reference "C1") (unit 1) (value "0.1nF") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C1") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
     )
     (path "/2fe94878-74ec-4c50-86a4-23fada804b38"
       (reference "J1") (unit 1) (value "Conn") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
